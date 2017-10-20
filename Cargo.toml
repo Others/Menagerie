@@ -1,0 +1,8 @@
+[package]
+authors = ["Gregor Peach <gregorpeach@gmail.com>"]
+name = "menagerie"
+version = "0.1.0"
+
+[dependencies]
+nalgebra = "0.13.0"
+rand = "0.3.16"
